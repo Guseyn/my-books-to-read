@@ -1,2 +1,8 @@
 # my-books-to-read
-Books to read (professional). 
+Books to read (professional and for self-improvement). 
+
+- [x] OCA book
+- [x] OCA practice book
+- [ ] bullshit jobs
+- [ ] PMBOK
+
